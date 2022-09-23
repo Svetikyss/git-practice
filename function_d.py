@@ -19,5 +19,6 @@ requency_index = {}
             most_common_value = num
 
     return most_common_value
+    
 if __name__ == "__main__":
     print(max_value([1, 12, 2, 42, 8, 3]))
